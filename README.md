@@ -10,8 +10,6 @@
 ## 🚀 About Me  
 - 🎓 Pre-final year **B.Tech CSE student** at NSS College of Engineering, Kerala  
 - 💡 Interested in **Machine Learning, Full-Stack Development & Linux Security**  
-- 🏗️ Currently building a **Construction Management Platform** using React + TypeScript  
-- 🔐 Working on a **Keylogger Detector for Linux**  
 - 🤖 Exploring **RAG, LangChain, FAISS & Gemini APIs**  
 - 📚 Always learning and building real-world projects 
 
