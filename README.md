@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adithyanmarikkal&label=Profile%20views&color=0e75b6&style=flat" alt="adithyanmarikkal" /> </p>
 <h2 > 🚀 About Me  </h2>
+
 - 🎓 Pre-final year **B.Tech CSE student** at NSS College of Engineering, Kerala  
+
 - 🔭 I’m currently working on **Trip Planner**
 
 - 🌱 I’m currently learning **AI Agent Frameworks**
