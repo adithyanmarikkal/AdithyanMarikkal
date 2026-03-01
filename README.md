@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adithyan Marikkal</h1>
-<h3 align="center">A passionate software engineering student with a solid foundation in machine learning theory and ML/DL algorithms, currently exploring AI agent frameworks including LangGraph, LangChain, and MCP servers to build intelligent systems.</h3>
+<h3 align="center">A passionate software engineering student with a solid foundation in machine learning theory and ML/DL algorithms, currently exploring AI agent frameworks including LangGraph, LangChain to build intelligent systems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adithyanmarikkal&label=Profile%20views&color=0e75b6&style=flat" alt="adithyanmarikkal" /> </p>
 <h2 > 🚀 About Me  </h2>
