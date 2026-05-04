@@ -30,6 +30,7 @@ marikkaladithyan@gmail.com
 
 <h1><img src="https://github.com/user-attachments/assets/fbd828ad-134f-4357-b2eb-96c4d46d5f58" width="30px"> Socials:</h1>
 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ad1_thyan_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adithyanmarikkal) 
 
 <h1><img src="https://github.com/user-attachments/assets/b3b64835-04c7-4e1b-ac12-d5eb0d6a47be" width="32px"> Tech Stack:</h1>
 
@@ -75,15 +76,17 @@ marikkaladithyan@gmail.com
 
 
 
-<h1><img src="https://github.com/user-attachments/assets/53d34d1c-f726-446e-a61a-86ea7daac437" width="30px"> GitHub Stats:</h1>
+<h1><img src="https://github.com/user-attachments/assets/53d34d1c-f726-446e-a61a-86ea7daac437" width="30px"> GitHub Stats:</h1
 
-  
-<h1><img src="https://github.com/user-attachments/assets/99a24fab-1cae-4fc8-8a04-7bf39c49da59" width="15px"> GitHub Metrics:</h1>
+
+![](https://github-readme-stats.shion.dev/api?username=adithyanmarikkal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=adithyanmarikkal&theme=dark&hide_border=false)<br/>
+
 
 
 <h1><img src="https://github.com/user-attachments/assets/4383a9bb-6588-47fa-a3f1-691604c92bdd" width="32px"> Top Languages:</h1>
 
-
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=adithyanmarikkal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=3000&height=50&duration=1750&pause=1500&color=1A9FFF&width=120&lines=Thank+you!"></h1>
