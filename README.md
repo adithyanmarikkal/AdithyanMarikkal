@@ -73,12 +73,4 @@
 
 ---
 
-<h2>📊 GitHub Stats</h2>
-
-![](https://github-readme-stats.shion.dev/api?username=adithyanmarikkal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=adithyanmarikkal&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=adithyanmarikkal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=3000&height=50&duration=1750&pause=1500&color=1A9FFF&width=120&lines=Thank+you!"></h1>
